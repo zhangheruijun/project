@@ -1,1 +1,1 @@
-var a = 1
+var v = '我是bb'
